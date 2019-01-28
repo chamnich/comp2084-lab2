@@ -1,9 +1,3 @@
-﻿@{
-    ViewBag.Title = "About";
-}
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
-
 <p>
     This lab is to check your ability to successfully create a new mvc web application and use some
     basic MVC Concepts  To complete the lab:
@@ -33,3 +27,4 @@
     <li>Submit a link to your comp2084-lab2 repository on Blackboard.</li>
 </ul>
 
+<p> Developed Jan 28, 2019 </p>
